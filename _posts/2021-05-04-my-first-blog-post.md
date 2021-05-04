@@ -1,3 +1,8 @@
+---
+title: "Bee Movie Script"
+date: 2021-05-04
+---
+
 Bee Movie Script - Dialogue Transcript
 
   
